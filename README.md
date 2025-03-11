@@ -43,12 +43,6 @@ c-compiler/
 └── README.md          # This file
 ```
 
-## Team Members
-
-- Zhang Yilin (张以琳) - AST Visualization and Testing
-- Lan Yarong (兰雅榕) - IR Generation and Target Code Generation
-- Shi Taiyu (石泰羽) - Lexical Analyzer and Parser
-
 ## Prerequisites
 
 - Flex & Bison: For generating lexical analyzer and parser
