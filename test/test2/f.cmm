@@ -1,0 +1,38 @@
+
+int main()
+{
+    int a;
+    int b;
+    float c;
+    float e;
+    int d;
+    char f;
+    a = 3;
+    b = 5;
+    c = 4;
+    d = a + b;
+    print("a+b: ", d);
+    d = a * b;
+    print("a*b: ", d);
+    d = a - b;
+    print("a-b: ", d);
+    d = a / b;
+    print("a/b: ", d);
+    d = a * c;
+    print("a*c: ",d);
+    e = a * b;
+    print("a*b: ",e);
+    f = 65;
+    print("f: ",f);
+    f = 'a';
+    d = f;
+    print("d: ", d);
+    e = f;
+    print("e: ",e);
+
+
+
+
+
+    return 0;
+}
